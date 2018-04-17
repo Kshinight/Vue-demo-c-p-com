@@ -1,7 +1,7 @@
 # vue-demo
 
 > vue父子间通信样例
-> 主要实现没有vuex的时候使用props和$emit进行父子间通信
+ 主要实现没有vuex的时候使用props和$emit进行父子间通信
 
 ## Build Setup
 
