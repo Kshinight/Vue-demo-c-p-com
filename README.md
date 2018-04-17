@@ -1,6 +1,6 @@
 # vue-demo
 
-> A Vue.js project
+> vue父子间通信样例
 
 ## Build Setup
 
